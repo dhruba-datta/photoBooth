@@ -5,13 +5,13 @@ import Login from './components/Login';
 import Home from './container/Home';
 
 const App = () => {
-//   const navigate = useNavigate();
+  const navigate = useNavigate();
 
-//   useEffect(() => {
-//     const User = localStorage.getItem('user') !== 'undefined' ? JSON.parse(localStorage.getItem('user')) : localStorage.clear();
+  useEffect(() => {
+    const User = localStorage.getItem('user') !== 'undefined' ? JSON.parse(localStorage.getItem('user')) : localStorage.clear();
 
-//     if (!User) navigate('/login');
-//   }, []);
+    if (!User) navigate('/login');
+  }, []);
 
   return (
     <Routes>
