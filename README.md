@@ -1,5 +1,5 @@
 
-# photoBooth🔥![GitHub watchers](https://img.shields.io/github/watchers/dhruba-datta/MyPortfolio?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/dhruba-datta/MyPortfolio?style=social)
+# photoBooth🔥![GitHub watchers](https://img.shields.io/github/watchers/dhruba-datta/photoBooth?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/dhruba-datta/photoBooth?style=social)
 
 **[photoBooth](https://phootobooth.netlify.app)** is a photo sharing web application with all advanced Social Media features made with React, Sanity, Tailwind & Google API.
 
